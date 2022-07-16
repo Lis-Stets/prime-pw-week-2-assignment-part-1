@@ -2,7 +2,7 @@
 
 This week we introduced the programming language of the Internet, JavaScript. With JavaScript we can make our websites smart by adding interactivity and logic.
 
-## Topics Covered
+## Topics Covered 
 * Variables and Constants
 * Conditional statements
 
